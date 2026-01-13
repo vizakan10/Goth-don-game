@@ -1,0 +1,17 @@
+			"Welcome to DON game"
+
+\\\	You should choose a lower value than your life score to fight	\\\
+    				Good Luck:)
+--------------------------------------------------------------------------------
+Player'sname-Visa
+Attempt:1
+Visa's  life score is:13
+79   37   45   81   40   
+Select a number to fight:37
+37 killed Visa
+
+***Game status***
+Player name:Visa
+Total attempts:1
+Final score:13
+Visa was defeated!!!
